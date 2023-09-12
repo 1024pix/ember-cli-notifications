@@ -1,1 +1,1 @@
-export { default } from 'ember-cli-notifications/components/ecn-icon-warning';
+export { default } from '@1024pix/ember-cli-notifications/components/ecn-icon-warning';

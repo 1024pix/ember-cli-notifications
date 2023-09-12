@@ -1,1 +1,1 @@
-export { default } from 'ember-cli-notifications/services/notifications';
+export { default } from '@1024pix/ember-cli-notifications/services/notifications';
